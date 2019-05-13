@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the 'My first rails app" project from the ["The Odin Project"](https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application) course.
 
-Things you may want to cover:
+Even tough it's called "**My** first rails app" it is only a tutorial where I follow the instructions step by step.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Heroku Link:
+https://guarded-river-64711.herokuapp.com/
